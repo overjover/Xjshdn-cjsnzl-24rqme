@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "0.0.3",
+  "versionCode": 4,
+  "versionName": "0.0.4",
   "apkUrl": "https://raw.githubusercontent.com/overjover/Xjshdn-cjsnzl-24rqme/main/releases/LeitorPlay.apk",
-  "sha256": "a173098c8484c1356c90da99730c7b4612a571af387ac4caedec9cb99a5f0ba3",
-  "releaseNotes": "Atualização do LeitorPlay 0.0.3"
+  "sha256": "756434c6b47f9ead78a7485571250c11091909eaca930656dbb9363d35170fa7",
+  "releaseNotes": "Atualização do LeitorPlay 0.0.4"
 }
